@@ -1,16 +1,31 @@
-## Hi there 👋
+<div align="center">
+<br />
+<br />
 
-<!--
-**KNIGHTOFSOLIDARITY/KNIGHTOFSOLIDARITY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://komarev.com/ghpvc/?username=KNIGHTOFSOLIDARITY&color=3f3744&label=ㅤㅤ𓈒ㅤknightsㅤ‧̥　ㅤㅤ&style=plastic)
+<br />
 
-Here are some ideas to get you started:
+<img
+  src="https://github.com/user-attachments/assets/f663bd2b-f232-411f-97cf-ffa30154adb4"
+  width="750"
+/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+
+<img
+  src="https://github.com/user-attachments/assets/faad843a-ca74-40f7-88fa-deeb9364d51b"
+  width="700"
+/> 
+
+<br />
+
+<div align="center">
+
+ <p align="center"> ${\textsf{\color{#45424f}c+h always encouraged. ships int freely! }}$  </sub>
+
+
+<img
+  src="https://github.com/user-attachments/assets/3f308dfc-57d9-4006-b210-0fcb646a56ee"
+  width="750"
+/>
