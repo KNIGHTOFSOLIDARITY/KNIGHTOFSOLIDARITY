@@ -22,7 +22,7 @@
 
 <div align="center">
 
- <p align="center"> ${\textsf{\color{#45424f}c+h always encouraged. ships int freely! }}$  </sub>
+ <p align="center"> ${\textsf{\color{#45424f}c + h always encouraged . silentcellar int }}$  </sub>
 
 
 <img
